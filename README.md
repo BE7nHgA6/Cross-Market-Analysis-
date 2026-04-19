@@ -48,4 +48,4 @@ To build an **interactive financial analytics platform** that demonstrates:
 - Data integration from multiple sources
 - Real-time dashboard visualization
 
-streamlit run app.py
+
